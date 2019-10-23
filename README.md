@@ -1,13 +1,19 @@
-# How to use this repo
+# Speeding up Science Metabarcoding
 
-This repo should include the source code for all visualizations presented on the SUS website.
+This repository contains code for visualizing an interactive phylogenetic tree
 
-To add a visualization:
+The code can be executed by clicking on the binder link. You can also upload your own data to binder, so you use our code for yourself, without installing any of the needed software. All you need is a web browser. Note that any changes you make will not be saved, so if you want to keep anything, so be sure to download any changes you make.
 
-1. Fork this repository into your own github.
-2. Create a new branch with the name of your viz or analysis.
-3. Add your working code and commit.
-4. Submit a Pull Request back to the speeding-up-science-workshops/speeding-up-science-code repository. Your code will be added shortly.
-5. Visit https://speeding-up-science-workshops.github.io/editing_this_site/ to update the website!
+RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/devonorourke/sus19mb/Niel?urlpath=rstudio)
 
-Contact us via slack or email if you have questions!
+
+This visualizations is presented as a R scripts so when you open the binder, it will look like RStudio. The script you want can be opened from the files tab in the lower right of RStudio.
+
+
+## Interactive Tree
+
+![tree](tree.png)
+
+See the taxonomic classification of the leaf on mouse over.
+
+```interactive_tree.Rmd```
