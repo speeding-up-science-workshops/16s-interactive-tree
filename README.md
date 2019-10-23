@@ -1,4 +1,4 @@
-# How to use this repo
+# Interactive Tree branch
 
 This repo should include the source code for all visualizations presented on the SUS website.
 
