@@ -9,15 +9,6 @@ RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/
 
 Most of these visualizations are presented as R scripts, so when you open the binder, it will look like RStudio. The script you want can be opened from the files tab in the lower right of RStudio.
 
-## Interactive NMDS
-
-
-![nmds](pics/nmds.png)
-
-Draw an NMDS plot that gives you sample names on mouseover. Also allows zooming.
-
-```interactive_nmds.Rmd```
-
 
 ## Interactive Tree
 
