@@ -12,7 +12,7 @@ Most of these visualizations are presented as R scripts, so when you open the bi
 
 ## Interactive Tree
 
-![tree](pics/tree.png)
+![tree](tree.png)
 
 See the taxonomic classification of the leaf on mouse over.
 
