@@ -1,5 +1,7 @@
 # Speeding up Science Metabarcoding
 
+[![DOI](https://zenodo.org/badge/217115394.svg)](https://zenodo.org/badge/latestdoi/217115394)
+
 This repository contains code for visualizing an interactive phylogenetic tree
 
 The code can be executed by clicking on the binder link. You can also upload your own data to binder, so you use our code for yourself, without installing any of the needed software. All you need is a web browser. Note that any changes you make will not be saved, so if you want to keep anything, so be sure to download any changes you make.
